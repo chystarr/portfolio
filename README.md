@@ -1,2 +1,2 @@
 # portfolio
-<a href="https://chystarr.github.io/portfolio/">Link to site</a>
+<a href="https://chystarr.github.io/portfolio/" target="_blank">Link to site</a>
