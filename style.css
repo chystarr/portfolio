@@ -2,6 +2,40 @@
   font-family: "Open Sans";
 }
 
+body {
+  background-color: #303030;
+}
+
+#intro {
+  width: 600px;
+  position: absolute;
+  top: 150px;
+  left: 100px;
+}
+
 h1 {
-  color: darkgreen;
+  font-size: 55px;
+  color: palegreen;
+}
+
+p {
+  font-size: 28px;
+  color: whitesmoke;
+}
+
+.header {
+  position: absolute;
+  top: 150px;
+  right: 100px;
+}
+
+.header li {
+  font-size: 28px;
+  color: whitesmoke;
+  display: block;
+}
+
+.header li:hover {
+  color: #303030;
+  background-color: palegreen;
 }
