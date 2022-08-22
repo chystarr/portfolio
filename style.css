@@ -10,7 +10,7 @@ body {
   width: 600px;
   position: absolute;
   top: 150px;
-  left: 100px;
+  left: 110px;
 }
 
 h1 {
@@ -23,19 +23,28 @@ p {
   color: whitesmoke;
 }
 
-.header {
+nav {
   position: absolute;
-  top: 150px;
-  right: 100px;
+  top: 175px;
+  right: 140px;
 }
 
-.header li {
-  font-size: 28px;
+li {
+  font-size: 30px;
   color: whitesmoke;
   display: block;
+  border-radius: 4px;
+  padding: 4px;
 }
 
-.header li:hover {
+nav li:hover {
   color: #303030;
   background-color: palegreen;
+}
+
+
+
+a {
+  color: inherit;
+  text-decoration: none;
 }
